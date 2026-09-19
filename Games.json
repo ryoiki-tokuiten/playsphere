@@ -1,0 +1,5582 @@
+[
+  {
+    "Game": "Elden Ring",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bandainamcoent.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "God of War Ragnarök",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@playstation.com",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "Genshin Impact",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "Mobile",
+      "PC",
+      "Console"
+    ],
+    "Contact": "genshin_cs@mihoyo.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Call of Duty: Warzone",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@activision.com",
+    "Downloads": 125000000
+  },
+  {
+    "Game": "Cyberpunk 2077",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@cdprojektred.com",
+    "Downloads": 18000000
+  },
+  {
+    "Game": "Animal Crossing: New Horizons",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "Console",
+    "Contact": "support@nintendo.com",
+    "Downloads": 40000000
+  },
+  {
+    "Game": "Among Us",
+    "Category": [
+      "Strategy",
+      "Survival"
+    ],
+    "Support": [
+      "Mobile",
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@innersloth.com",
+    "Downloads": 500000000
+  },
+  {
+    "Game": "Valorant",
+    "Category": [
+      "Shooter",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@riotgames.com",
+    "Downloads": 22000000
+  },
+  {
+    "Game": "Roblox",
+    "Category": [
+      "Adventure",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "Contact": "info@roblox.com",
+    "Downloads": 380000000
+  },
+  {
+    "Game": "Fortnite",
+    "Category": [
+      "Shooter",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "help@epicgames.com",
+    "Downloads": 350000000
+  },
+  {
+    "Game": "Minecraft",
+    "Category": [
+      "Survival",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@mojang.com",
+    "Downloads": 238000000
+  },
+  {
+    "Game": "The Last of Us Part II",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@naughtydog.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Hades",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@supergiantgames.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "Fall Guys",
+    "Category": [
+      "Platformer"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@mediatonic.co.uk",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Resident Evil Village",
+    "Category": [
+      "Action",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@capcom.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Pokémon Legends: Arceus",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@pokemon.com",
+    "Downloads": 13500000
+  },
+  {
+    "Game": "FIFA 23",
+    "Category": [
+      "Sports"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 35000000
+  },
+  {
+    "Game": "Horizon Forbidden West",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": "Console",
+    "Contact": "support@guerrilla-games.com",
+    "Downloads": 8200000
+  },
+  {
+    "Game": "Ghost of Tsushima",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@suckerpunch.com",
+    "Downloads": 9500000
+  },
+  {
+    "Game": "Marvel's Spider-Man: Miles Morales",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@insomniacgames.com",
+    "Downloads": 6800000
+  },
+  {
+    "Game": "Stardew Valley",
+    "Category": [
+      "Simulation",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "contact@stardewvalley.net",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Microsoft Flight Simulator",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "flightsim-support@microsoft.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Demon's Souls (Remake)",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": "Console",
+    "Contact": "support@bluepointgames.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "It Takes Two",
+    "Category": [
+      "Adventure",
+      "Platformer"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@hazelight.se",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Deathloop",
+    "Category": [
+      "Action",
+      "Shooter"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@arkane-studios.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Returnal",
+    "Category": [
+      "Action",
+      "Shooter"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@housemarque.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Monster Hunter Rise",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@capcom.com",
+    "Downloads": 11000000
+  },
+  {
+    "Game": "Final Fantasy VII Remake",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@square-enix.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "Assassin's Creed Valhalla",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ubisoft.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Pokémon Brilliant Diamond and Shining Pearl",
+    "Category": [
+      "RPG"
+    ],
+    "Support": "Console",
+    "Contact": "support@pokemon.com",
+    "Downloads": 14000000
+  },
+  {
+    "Game": "Guardians of the Galaxy",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@eidosmontreal.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Ratchet & Clank: Rift Apart",
+    "Category": [
+      "Action",
+      "Platformer"
+    ],
+    "Support": "Console",
+    "Contact": "support@insomniacgames.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Kena: Bridge of Spirits",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@emberlab.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Metroid Dread",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@nintendo.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "New World",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "PC",
+    "Contact": "support@amazonagames.com",
+    "Downloads": 25000000
+  },
+  {
+    "Game": "Lost Ark",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@playlostark.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Psychonauts 2",
+    "Category": [
+      "Platformer",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@doublefine.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Age of Empires IV",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@ageofempires.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Back 4 Blood",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@turtlerockstudios.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Far Cry 6",
+    "Category": [
+      "Action",
+      "Shooter"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ubisoft.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Dying Light 2",
+    "Category": [
+      "Action",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@techland.pl",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Battlefield 2042",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 4500000
+  },
+  {
+    "Game": "Gran Turismo 7",
+    "Category": [
+      "Racing",
+      "Simulation"
+    ],
+    "Support": "Console",
+    "Contact": "support@polyphony.co.jp",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Pokémon Scarlet and Violet",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@pokemon.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Splatoon 3",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "Console",
+    "Contact": "support@nintendo.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Tiny Tina's Wonderlands",
+    "Category": [
+      "Shooter",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@gearboxsoftware.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Triangle Strategy",
+    "Category": [
+      "Strategy",
+      "RPG"
+    ],
+    "Support": "Console",
+    "Contact": "support@square-enix.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Kirby and the Forgotten Land",
+    "Category": [
+      "Platformer",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@nintendo.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Tunic",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@finji.co",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "SIFU",
+    "Category": [
+      "Action",
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@sloclap.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Ghostwire: Tokyo",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@tangogameworks.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Horizon Zero Dawn",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@guerrilla-games.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Chorus",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@fishingcactus.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Rainbow Six Extraction",
+    "Category": [
+      "Shooter",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ubisoft.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Pokemon Legends: Arceus",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@pokemon.com",
+    "Downloads": 14500000
+  },
+  {
+    "Game": "Forza Horizon 5",
+    "Category": [
+      "Racing",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@playground-games.com",
+    "Downloads": 25000000
+  },
+  {
+    "Game": "Halo Infinite",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@343industries.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "The Ascent",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@curve-digital.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Death's Door",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@devolverdigital.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Little Nightmares II",
+    "Category": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bandainamco.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Hitman 3",
+    "Category": [
+      "Action",
+      "Stealth"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ioi.dk",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Resident Evil 4 Remake",
+    "Category": [
+      "Action",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@capcom.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "The Callisto Protocol",
+    "Category": [
+      "Survival",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@strikingdistancestudios.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "High On Life",
+    "Category": [
+      "Shooter",
+      "Comedy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@squanchtendo.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Marvel's Midnight Suns",
+    "Category": [
+      "Strategy",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@firaxis.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "God of War (PC Port)",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "PC",
+    "Contact": "support@santamonicastudio.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Sniper Elite 5",
+    "Category": [
+      "Shooter",
+      "Stealth"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@rebellion.co.uk",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Evil Dead: The Game",
+    "Category": [
+      "Action",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@saber.games",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Cult of the Lamb",
+    "Category": [
+      "Simulation",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@devolverdigital.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Xenoblade Chronicles 3",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@monolithsoft.co.jp",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "MultiVersus",
+    "Category": [
+      "Fighting",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@wbgames.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Saints Row Reboot",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@deepsilver.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Soul Hackers 2",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@atlus.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "The Last of Us Part I",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@naughtydog.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "The DioField Chronicle",
+    "Category": [
+      "Strategy",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@square-enix.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Overwatch 2",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@blizzard.com",
+    "Downloads": 25000000
+  },
+  {
+    "Game": "Mario + Rabbids Sparks of Hope",
+    "Category": [
+      "Strategy",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@ubisoft.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Gotham Knights",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@wbgames.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Call of Duty: Modern Warfare II",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@activision.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "Bayonetta 3",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@platinumgames.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Star Wars Jedi: Survivor",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "The Legend of Zelda: Tears of the Kingdom",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@nintendo.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Diablo IV",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@blizzard.com",
+    "Downloads": 12000000
+  },
+  {
+    "Game": "Street Fighter 6",
+    "Category": [
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@capcom.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Hogwarts Legacy",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@wbgames.com",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "Atomic Heart",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@mundfish.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Dead Space Remake",
+    "Category": [
+      "Survival",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Hi-Fi Rush",
+    "Category": [
+      "Action",
+      "Rhythm"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@tangogameworks.com",
+    "Downloads": 2500000
+  },
+  {
+    "Game": "Wo Long: Fallen Dynasty",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@koeitecmo.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Resident Evil 4 (Remake)",
+    "Category": [
+      "Action",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@capcom.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Dead Island 2",
+    "Category": [
+      "Action",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@deepsilver.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Star Wars Jedi: Survivor",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "The Legend of Zelda: Tears of the Kingdom",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@nintendo.com",
+    "Downloads": 18000000
+  },
+  {
+    "Game": "Diablo IV",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@blizzard.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Final Fantasy XVI",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": "Console",
+    "Contact": "support@square-enix.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Baldur's Gate 3",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@larian.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Starfield",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@bethesda.net",
+    "Downloads": 12000000
+  },
+  {
+    "Game": "Armored Core VI: Fires of Rubicon",
+    "Category": [
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@fromsoftware.jp",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Spider-Man 2",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@insomniacgames.com",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Alan Wake 2",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@remedygames.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Super Mario Bros. Wonder",
+    "Category": [
+      "Platformer"
+    ],
+    "Support": "Console",
+    "Contact": "support@nintendo.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Lords of the Fallen",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ci-games.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Dead Rising Deluxe Remaster",
+    "Category": [
+      "Action",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@capcom.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Mortal Kombat 1",
+    "Category": [
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@wbgames.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Lies of P",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@neowiz.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "The Crew Motorfest",
+    "Category": [
+      "Racing"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ubisoft.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Forza Motorsport",
+    "Category": [
+      "Racing",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@turn10studios.com",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Cyberpunk 2077: Phantom Liberty",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@cdprojektred.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Assassin's Creed Mirage",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ubisoft.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "Call of Duty: Modern Warfare III",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@activision.com",
+    "Downloads": 25000000
+  },
+  {
+    "Game": "Super Mario RPG Remake",
+    "Category": [
+      "RPG"
+    ],
+    "Support": "Console",
+    "Contact": "support@nintendo.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Dragon's Dogma 2",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@capcom.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Star Wars Outlaws",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ubisoft.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Tekken 8",
+    "Category": [
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bandainamcoent.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Like a Dragon: Infinite Wealth",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@sega.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Monster Hunter Wilds",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@capcom.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "Final Fantasy VII Rebirth",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": "Console",
+    "Contact": "support@square-enix.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Harry Potter: Quidditch Champions",
+    "Category": [
+      "Sports",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@wbgames.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Mobile Legends: Bang Bang",
+    "Category": [
+      "Action",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "mobilelegends@moonton.com",
+    "Downloads": 1000000000
+  },
+  {
+    "Game": "PUBG Mobile",
+    "Category": [
+      "Shooter",
+      "Survival"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@pubgmobile.com",
+    "Downloads": 1000000000
+  },
+  {
+    "Game": "Call of Duty: Mobile",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@activision.com",
+    "Downloads": 500000000
+  },
+  {
+    "Game": "Free Fire",
+    "Category": [
+      "Shooter",
+      "Survival"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@garena.com",
+    "Downloads": 1500000000
+  },
+  {
+    "Game": "Subway Surfers",
+    "Category": [
+      "Action",
+      "Platformer"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@kiloo.com",
+    "Downloads": 3000000000
+  },
+  {
+    "Game": "Candy Crush Saga",
+    "Category": [
+      "Puzzle"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@king.com",
+    "Downloads": 2500000000
+  },
+  {
+    "Game": "Pokémon GO",
+    "Category": [
+      "Adventure",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@nianticlabs.com",
+    "Downloads": 1000000000
+  },
+  {
+    "Game": "Homescapes",
+    "Category": [
+      "Puzzle",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@playrix.com",
+    "Downloads": 350000000
+  },
+  {
+    "Game": "Clash of Clans",
+    "Category": [
+      "Strategy",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@supercell.com",
+    "Downloads": 500000000
+  },
+  {
+    "Game": "Clash Royale",
+    "Category": [
+      "Strategy",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@supercell.com",
+    "Downloads": 500000000
+  },
+  {
+    "Game": "Brawl Stars",
+    "Category": [
+      "Action",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@supercell.com",
+    "Downloads": 300000000
+  },
+  {
+    "Game": "Coin Master",
+    "Category": [
+      "Simulation",
+      "Puzzle"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@moonactive.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "8 Ball Pool",
+    "Category": [
+      "Sports",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@miniclip.com",
+    "Downloads": 500000000
+  },
+  {
+    "Game": "RAID: Shadow Legends",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@plarium.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Rise of Kingdoms",
+    "Category": [
+      "Strategy",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@lilithgames.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "State of Survival",
+    "Category": [
+      "Strategy",
+      "Survival"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@kinggroup.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Lords Mobile",
+    "Category": [
+      "Strategy",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@igg.com",
+    "Downloads": 200000000
+  },
+  {
+    "Game": "Gardenscapes",
+    "Category": [
+      "Puzzle",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@playrix.com",
+    "Downloads": 250000000
+  },
+  {
+    "Game": "Toon Blast",
+    "Category": [
+      "Puzzle"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@peakgames.com",
+    "Downloads": 80000000
+  },
+  {
+    "Game": "Candy Crush Soda Saga",
+    "Category": [
+      "Puzzle"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@king.com",
+    "Downloads": 500000000
+  },
+  {
+    "Game": "Empires & Puzzles",
+    "Category": [
+      "Puzzle",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@smallgiantgames.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Royal Match",
+    "Category": [
+      "Puzzle"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@dreamgames.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Evony: The King's Return",
+    "Category": [
+      "Strategy",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@evony.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Township",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@playrix.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Fishdom",
+    "Category": [
+      "Puzzle",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@playrix.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Merge Dragons!",
+    "Category": [
+      "Puzzle",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@gramgames.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Project Makeover",
+    "Category": [
+      "Puzzle",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@magictaggames.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Honor of Kings",
+    "Category": [
+      "Action",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@tencent.com",
+    "Downloads": 300000000
+  },
+  {
+    "Game": "Summoners War",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@com2us.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "AFK Arena",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@lilithgames.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Game of Thrones: Conquest",
+    "Category": [
+      "Strategy",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@wbgames.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Idle Heroes",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@droidhang.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Match Masters",
+    "Category": [
+      "Puzzle"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@funtomic.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "June's Journey",
+    "Category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@wooga.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Pocket Worlds 3D",
+    "Category": [
+      "Simulation",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@pocketworlds.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Marvel Strike Force",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@scopely.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "Star Wars: Galaxy of Heroes",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "help@ea.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Harry Potter: Magic Awakened",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@netease.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Disney Mirrorverse",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@kabam.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Merge Mansion",
+    "Category": [
+      "Puzzle",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@metacore.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Marvel Contest of Champions",
+    "Category": [
+      "Fighting",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@kabam.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "FIFA Mobile",
+    "Category": [
+      "Sports",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "help@ea.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Apex Legends Mobile",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "help@ea.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "League of Legends: Wild Rift",
+    "Category": [
+      "Action",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@riotgames.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Diablo Immortal",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@blizzard.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "Clash Mini",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@supercell.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Everdale",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@supercell.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Angry Birds Journey",
+    "Category": [
+      "Puzzle",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@rovio.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "Words With Friends 2",
+    "Category": [
+      "Puzzle"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@zynga.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Family Island",
+    "Category": [
+      "Simulation",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@melsoft.com",
+    "Downloads": 25000000
+  },
+  {
+    "Game": "Big Farm Mobile Harvest",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@goodgamestudios.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Shadow Fight Arena",
+    "Category": [
+      "Fighting",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@nekki.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Magic: The Gathering Arena",
+    "Category": [
+      "Strategy",
+      "Card Game"
+    ],
+    "Support": [
+      "PC",
+      "Mobile"
+    ],
+    "Contact": "support@wizards.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Hearthstone",
+    "Category": [
+      "Strategy",
+      "Card Game"
+    ],
+    "Support": [
+      "PC",
+      "Mobile"
+    ],
+    "Contact": "support@blizzard.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Sky: Children of the Light",
+    "Category": [
+      "Adventure",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@thatgamecompany.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Monument Valley 2",
+    "Category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@ustwo.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Asphalt 9: Legends",
+    "Category": [
+      "Racing"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@gameloft.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Mario Kart Tour",
+    "Category": [
+      "Racing"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@nintendo.com",
+    "Downloads": 200000000
+  },
+  {
+    "Game": "Honkai: Star Rail",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": [
+      "Mobile",
+      "PC"
+    ],
+    "Contact": "genshin_cs@mihoyo.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "Zenless Zone Zero",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "Mobile",
+      "PC"
+    ],
+    "Contact": "support@mihoyo.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Wuthering Waves",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "Mobile",
+      "PC"
+    ],
+    "Contact": "support@kurogame.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Punishing: Gray Raven",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@kurogame.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Arknights",
+    "Category": [
+      "Strategy",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@hypergryph.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Blue Archive",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@nexon.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Another Eden",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@wfs.games",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Girls' Frontline",
+    "Category": [
+      "Strategy",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@sunborngame.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Azur Lane",
+    "Category": [
+      "Shooter",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@yostar.com",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "Cookie Run: Kingdom",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@devsisters.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Guardian Tales",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@kakaogames.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Fate/Grand Order",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@aniplex.co.jp",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Goddess of Victory: Nikke",
+    "Category": [
+      "Shooter",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@shift-up.co.kr",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "Tower of Fantasy",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": [
+      "Mobile",
+      "PC"
+    ],
+    "Contact": "support@levelinfinite.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Ni no Kuni: Cross Worlds",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@netmarble.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Seven Knights 2",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@netmarble.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Disney Twisted-Wonderland",
+    "Category": [
+      "RPG",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@aniplex.co.jp",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Honkai Impact 3rd",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "Mobile",
+      "PC"
+    ],
+    "Contact": "support@mihoyo.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "Tears of Themis",
+    "Category": [
+      "RPG",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@mihoyo.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Counter: Side",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@studiobside.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Identity V",
+    "Category": [
+      "Survival",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@netease.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Teamfight Tactics",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": [
+      "Mobile",
+      "PC"
+    ],
+    "Contact": "support@riotgames.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Pokémon Unite",
+    "Category": [
+      "Strategy",
+      "Action"
+    ],
+    "Support": [
+      "Mobile",
+      "Console"
+    ],
+    "Contact": "support@pokemon.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Black Desert Mobile",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@pearlabyss.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "Path of Exile Mobile",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@grindinggear.com",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "Echoes of Mana",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@square-enix.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Idle Miner Tycoon",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@fluffyfairygames.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Dragon City Mobile",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@socialpoint.es",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Warpath",
+    "Category": [
+      "Strategy",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@lilithgames.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Top War: Battle Game",
+    "Category": [
+      "Strategy",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@topwargame.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Gun War: Shooting Games",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@shooter.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Hill Climb Racing 2",
+    "Category": [
+      "Racing"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@fingersoft.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "World of Tanks Blitz",
+    "Category": [
+      "Action",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@wargaming.net",
+    "Downloads": 150000000
+  },
+  {
+    "Game": "Plants vs. Zombies 2",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "help@ea.com",
+    "Downloads": 200000000
+  },
+  {
+    "Game": "My Talking Tom 2",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@outfit7.com",
+    "Downloads": 300000000
+  },
+  {
+    "Game": "Stumble Guys",
+    "Category": [
+      "Action",
+      "Platformer"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@stumbleguys.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "CSR Racing 2",
+    "Category": [
+      "Racing",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@naturalmotion.com",
+    "Downloads": 130000000
+  },
+  {
+    "Game": "Lineage 2: Revolution",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@netmarble.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "Crossy Road",
+    "Category": [
+      "Action",
+      "Arcade"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@hipsterwhale.com",
+    "Downloads": 200000000
+  },
+  {
+    "Game": "Temple Run 2",
+    "Category": [
+      "Action",
+      "Platformer"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@imangi.com",
+    "Downloads": 500000000
+  },
+  {
+    "Game": "King of Avalon",
+    "Category": [
+      "Strategy",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@funplus.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Guns of Glory",
+    "Category": [
+      "Strategy",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@funplus.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Cooking Fever",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@nordcurrent.com",
+    "Downloads": 200000000
+  },
+  {
+    "Game": "Traffic Rider",
+    "Category": [
+      "Racing"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@soner.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Golf Clash",
+    "Category": [
+      "Sports",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@playdemic.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Art of Conquest",
+    "Category": [
+      "Strategy",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@lilithgames.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Clash Quest",
+    "Category": [
+      "Puzzle",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@supercell.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Last Day on Earth: Survival",
+    "Category": [
+      "Survival",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@kefirgames.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Garena Free Fire MAX",
+    "Category": [
+      "Shooter",
+      "Survival"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@garena.com",
+    "Downloads": 200000000
+  },
+  {
+    "Game": "Hay Day",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@supercell.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "BitLife",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@candywriter.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Design Home",
+    "Category": [
+      "Simulation",
+      "Puzzle"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@crowdstar.com",
+    "Downloads": 80000000
+  },
+  {
+    "Game": "Homicide Squad",
+    "Category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@g5e.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Manor Matters",
+    "Category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@playrix.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Apex Craft",
+    "Category": [
+      "Adventure",
+      "Simulation"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@crafting.io",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Avakin Life",
+    "Category": [
+      "Simulation",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@lockwood.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Harry Potter: Hogwarts Mystery",
+    "Category": [
+      "Adventure",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@jamcity.com",
+    "Downloads": 80000000
+  },
+  {
+    "Game": "GRID Autosport",
+    "Category": [
+      "Racing",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@feralinteractive.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "MARVEL Future Fight",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@netmarble.com",
+    "Downloads": 120000000
+  },
+  {
+    "Game": "Disney Emoji Blitz",
+    "Category": [
+      "Puzzle"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@jamcity.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Cookie Run: OvenBreak",
+    "Category": [
+      "Platformer",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@devsisters.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Toca Life World",
+    "Category": [
+      "Simulation",
+      "Education"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@tocaboca.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Monopoly GO!",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@scopely.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Angry Birds 2",
+    "Category": [
+      "Puzzle",
+      "Action"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@rovio.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Fallout Shelter",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "Mobile",
+    "Contact": "help@bethesda.net",
+    "Downloads": 120000000
+  },
+  {
+    "Game": "Slay the Spire",
+    "Category": [
+      "Strategy",
+      "Card Game"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@megacrit.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Dead Cells",
+    "Category": [
+      "Action",
+      "Platformer"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@motiontwin.com",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Terraria",
+    "Category": [
+      "Adventure",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@re-logic.com",
+    "Downloads": 35000000
+  },
+  {
+    "Game": "Teamfight Manager",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@teamfightmanager.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Vampire Survivors",
+    "Category": [
+      "Action",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@poncle.games",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Valheim",
+    "Category": [
+      "Survival",
+      "Adventure"
+    ],
+    "Support": "PC",
+    "Contact": "support@irongatestudio.se",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Disco Elysium",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@zaum.ee",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Outer Wilds",
+    "Category": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@mobiusdigitalgames.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Hollow Knight: Silksong",
+    "Category": [
+      "Platformer",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@teamcherry.com.au",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Undertale",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@tobyfox.net",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Inscryption",
+    "Category": [
+      "Card Game",
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@devolvedigital.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "V Rising",
+    "Category": [
+      "Survival",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@stunlock.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Dave the Diver",
+    "Category": [
+      "Adventure",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@mintrocketgames.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Darkest Dungeon II",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@redhookgames.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Satisfactory",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@coffeestainstudios.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Planet Zoo",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@frontier.co.uk",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Factorio",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@factorio.com",
+    "Downloads": 3500000
+  },
+  {
+    "Game": "Half-Life 2",
+    "Category": [
+      "Shooter",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@valvesoftware.com",
+    "Downloads": 25000000
+  },
+  {
+    "Game": "Portal 2",
+    "Category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@valvesoftware.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "DOOM Eternal",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bethesda.net",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "Left 4 Dead 2",
+    "Category": [
+      "Shooter",
+      "Co-op"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@valvesoftware.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "XCOM 2",
+    "Category": [
+      "Strategy",
+      "Tactical"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@firaxis.com",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Frostpunk",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@11bitstudios.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "The Binding of Isaac: Rebirth",
+    "Category": [
+      "Roguelike",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@nicholas.io",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Papers, Please",
+    "Category": [
+      "Puzzle",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Mobile"
+    ],
+    "Contact": "support@dukope.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Baba Is You",
+    "Category": [
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@hempuli.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "No Man's Sky",
+    "Category": [
+      "Adventure",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@hellogames.co.uk",
+    "Downloads": 12000000
+  },
+  {
+    "Game": "Sea of Thieves",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@seaofthieves.com",
+    "Downloads": 25000000
+  },
+  {
+    "Game": "Phasmophobia",
+    "Category": [
+      "Horror",
+      "Co-op"
+    ],
+    "Support": "PC",
+    "Contact": "support@kineticgames.co.uk",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "Deep Rock Galactic",
+    "Category": [
+      "Shooter",
+      "Co-op"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ghostship.dk",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Cities: Skylines",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@paradoxplaza.com",
+    "Downloads": 12000000
+  },
+  {
+    "Game": "Crusader Kings III",
+    "Category": [
+      "Strategy",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@paradoxplaza.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Subnautica",
+    "Category": [
+      "Adventure",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@unknownworlds.com",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Subnautica: Below Zero",
+    "Category": [
+      "Adventure",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@unknownworlds.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Total War: Warhammer III",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": [
+      "PC"
+    ],
+    "Contact": "support@creative-assembly.com",
+    "Downloads": 2500000
+  },
+  {
+    "Game": "RimWorld",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@ludeon.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Stray",
+    "Category": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@annapurnainteractive.com",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "A Plague Tale: Requiem",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@focus-home.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Control",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@remedygames.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Metro Exodus",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@4a-games.com.mt",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "The Witcher 3: Wild Hunt",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@cdprojektred.com",
+    "Downloads": 40000000
+  },
+  {
+    "Game": "Red Dead Redemption 2",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@rockstargames.com",
+    "Downloads": 45000000
+  },
+  {
+    "Game": "Grand Theft Auto V",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@rockstargames.com",
+    "Downloads": 170000000
+  },
+  {
+    "Game": "Borderlands 3",
+    "Category": [
+      "Shooter",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@gearboxsoftware.com",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "Project Zomboid",
+    "Category": [
+      "Survival",
+      "RPG"
+    ],
+    "Support": "PC",
+    "Contact": "support@theindiestone.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "7 Days to Die",
+    "Category": [
+      "Survival",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@thefunpimps.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Dwarf Fortress",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@bay12games.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Oxygen Not Included",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@klei.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Kingdom Come: Deliverance",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@warhorsestudios.cz",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Mount & Blade II: Bannerlord",
+    "Category": [
+      "Action",
+      "RPG",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@taleworlds.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Sekiro: Shadows Die Twice",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@fromsoftware.jp",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Dark Souls III",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bandainamcoent.com",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "The Forest",
+    "Category": [
+      "Survival",
+      "Horror"
+    ],
+    "Support": "PC",
+    "Contact": "support@endnightgames.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Sons of the Forest",
+    "Category": [
+      "Survival",
+      "Horror"
+    ],
+    "Support": [
+      "PC"
+    ],
+    "Contact": "support@endnightgames.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Rust",
+    "Category": [
+      "Survival",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@facepunchstudios.com",
+    "Downloads": 12000000
+  },
+  {
+    "Game": "Hearts of Iron IV",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": [
+      "PC"
+    ],
+    "Contact": "support@paradoxplaza.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Europa Universalis IV",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@paradoxplaza.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Stellaris",
+    "Category": [
+      "Strategy",
+      "Sci-Fi"
+    ],
+    "Support": "PC",
+    "Contact": "support@paradoxplaza.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Monster Hunter: World",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@capcom.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Divinity: Original Sin 2",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@larian.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "Pillars of Eternity II: Deadfire",
+    "Category": [
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@obsidian.net",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Warframe",
+    "Category": [
+      "Action",
+      "Shooter"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@digitalextremes.com",
+    "Downloads": 50000000
+  },
+  {
+    "Game": "Path of Exile",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": "PC",
+    "Contact": "support@grindinggear.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Outer Worlds",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@obsidian.net",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "GreedFall",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@focus-home.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "The Elder Scrolls V: Skyrim",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@bethesda.net",
+    "Downloads": 60000000
+  },
+  {
+    "Game": "Fallout 4",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@bethesda.net",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Watch Dogs: Legion",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ubisoft.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Dying Light",
+    "Category": [
+      "Action",
+      "Survival"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@techland.pl",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Prey",
+    "Category": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bethesda.net",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "A Total War Saga: TROY",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": [
+      "PC"
+    ],
+    "Contact": "support@creative-assembly.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Total War: THREE KINGDOMS",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": [
+      "PC"
+    ],
+    "Contact": "support@creative-assembly.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Civilization VI",
+    "Category": [
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@2k.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Persona 5 Royal",
+    "Category": [
+      "RPG",
+      "Strategy"
+    ],
+    "Support": "Console",
+    "Contact": "support@atlus.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "Yakuza: Like a Dragon",
+    "Category": [
+      "RPG",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@sega.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "A Way Out",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Days Gone",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": "Console",
+    "Contact": "support@bendstudio.com",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Hunt: Showdown",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@crytek.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Hell Let Loose",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@team17.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Squad",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@offworldindustries.com",
+    "Downloads": 2500000
+  },
+  {
+    "Game": "Beat Saber",
+    "Category": [
+      "Rhythm",
+      "VR"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@beat-games.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Half-Life: Alyx",
+    "Category": [
+      "Shooter",
+      "VR"
+    ],
+    "Support": "PC",
+    "Contact": "support@valvesoftware.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Boneworks",
+    "Category": [
+      "Action",
+      "VR"
+    ],
+    "Support": "PC",
+    "Contact": "support@stresslevelzero.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "F1 23",
+    "Category": [
+      "Racing",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Assetto Corsa Competizione",
+    "Category": [
+      "Racing",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@kunos-simulazioni.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "iRacing",
+    "Category": [
+      "Racing",
+      "Simulation"
+    ],
+    "Support": "PC",
+    "Contact": "support@iracing.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Wreckfest",
+    "Category": [
+      "Racing",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bugbear.fi",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "SnowRunner",
+    "Category": [
+      "Simulation",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@saber.games",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Microsoft Flight Simulator X",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "PC",
+    "Contact": "flightsim-support@microsoft.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "X-Plane 12",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "PC",
+    "Contact": "support@x-plane.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Farming Simulator 22",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@giants-software.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Euro Truck Simulator 2",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "PC",
+    "Contact": "support@scssoft.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "American Truck Simulator",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "PC",
+    "Contact": "support@scssoft.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Railway Empire 2",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@kalypsomedia.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Two Point Campus",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@twopointstudios.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Jurassic World Evolution 2",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@frontier.co.uk",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Madden NFL 24",
+    "Category": [
+      "Sports"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "NBA 2K24",
+    "Category": [
+      "Sports"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@2k.com",
+    "Downloads": 9000000
+  },
+  {
+    "Game": "MLB The Show 23",
+    "Category": [
+      "Sports"
+    ],
+    "Support": "Console",
+    "Contact": "support@playstation.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "PGA Tour 2K23",
+    "Category": [
+      "Sports"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@2k.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "WWE 2K23",
+    "Category": [
+      "Sports",
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@2k.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "eFootball 2024",
+    "Category": [
+      "Sports"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@konami.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Super Mega Baseball 4",
+    "Category": [
+      "Sports",
+      "Arcade"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@metalheadsoftware.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Rocket League",
+    "Category": [
+      "Sports",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@rocketleague.com",
+    "Downloads": 75000000
+  },
+  {
+    "Game": "Hokko Life",
+    "Category": [
+      "Simulation",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@team17.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "My Time at Sandrock",
+    "Category": [
+      "Simulation",
+      "RPG"
+    ],
+    "Support": "PC",
+    "Contact": "support@pathea.net",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Dinkum",
+    "Category": [
+      "Simulation",
+      "Adventure"
+    ],
+    "Support": "PC",
+    "Contact": "support@dinkum.com",
+    "Downloads": 800000
+  },
+  {
+    "Game": "The Sims 4",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 70000000
+  },
+  {
+    "Game": "House Flipper",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@empyrean.games",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "PowerWash Simulator",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "PC",
+    "Contact": "support@futurlab.co.uk",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "PC Building Simulator",
+    "Category": [
+      "Simulation"
+    ],
+    "Support": "PC",
+    "Contact": "support@ir-ltd.net",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Surviving Mars",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@haemimontgames.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Prison Architect",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "PC",
+    "Contact": "support@double11.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Celeste",
+    "Category": [
+      "Platformer"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@mattmakesgames.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Cuphead",
+    "Category": [
+      "Platformer",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@studiomdhr.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Ori and the Will of the Wisps",
+    "Category": [
+      "Platformer",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@moongamestudios.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Hollow Knight",
+    "Category": [
+      "Platformer",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@teamcherry.com.au",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Spelunky 2",
+    "Category": [
+      "Platformer",
+      "Roguelike"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@mossmouth.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Super Meat Boy Forever",
+    "Category": [
+      "Platformer"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@teamsupermeatboy.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Guacamelee! 2",
+    "Category": [
+      "Platformer",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@drinkboxstudios.com",
+    "Downloads": 800000
+  },
+  {
+    "Game": "Shovel Knight: Treasure Trove",
+    "Category": [
+      "Platformer",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@yachtclubgames.com",
+    "Downloads": 2500000
+  },
+  {
+    "Game": "Blasphemous",
+    "Category": [
+      "Platformer",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@thegamekitchen.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Dead by Daylight",
+    "Category": [
+      "Horror",
+      "Multiplayer"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@bhvr.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Outlast 2",
+    "Category": [
+      "Horror"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@redbarrelsgames.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Amnesia: The Dark Descent",
+    "Category": [
+      "Horror"
+    ],
+    "Support": "PC",
+    "Contact": "support@frictionalgames.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "SOMA",
+    "Category": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "Support": "PC",
+    "Contact": "support@frictionalgames.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Layers of Fear 2",
+    "Category": [
+      "Horror"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@blooberteam.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Visage",
+    "Category": [
+      "Horror"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@sadsquarestudio.com",
+    "Downloads": 800000
+  },
+  {
+    "Game": "Little Nightmares",
+    "Category": [
+      "Puzzle",
+      "Horror"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@tarsier.se",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Friday the 13th: The Game",
+    "Category": [
+      "Horror",
+      "Multiplayer"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@fearthegun.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Ghostrunner",
+    "Category": [
+      "Action",
+      "Cyberpunk"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@one-more-level.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Hotline Miami 2: Wrong Number",
+    "Category": [
+      "Action",
+      "Shooter"
+    ],
+    "Support": "PC",
+    "Contact": "support@devolverdigital.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Katana ZERO",
+    "Category": [
+      "Action",
+      "Platformer"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@askiisoft.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "My Friend Pedro",
+    "Category": [
+      "Action",
+      "Shooter"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@devolverdigital.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Ruiner",
+    "Category": [
+      "Action",
+      "Shooter"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@reikon.com",
+    "Downloads": 700000
+  },
+  {
+    "Game": "Ape Out",
+    "Category": [
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@devolverdigital.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Enter the Gungeon",
+    "Category": [
+      "Roguelike",
+      "Shooter"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@dodgeroll.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Nuclear Throne",
+    "Category": [
+      "Roguelike",
+      "Shooter"
+    ],
+    "Support": "PC",
+    "Contact": "support@vlambeer.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Risk of Rain 2",
+    "Category": [
+      "Roguelike",
+      "Shooter"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@hopooo.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Hades (Early Access)",
+    "Category": [
+      "Action",
+      "Roguelike"
+    ],
+    "Support": "PC",
+    "Contact": "support@supergiantgames.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Returnal (if PC)",
+    "Category": [
+      "Action",
+      "Roguelike"
+    ],
+    "Support": "PC",
+    "Contact": "support@housemarque.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "The Witness",
+    "Category": [
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@thekla.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Return of the Obra Dinn",
+    "Category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "Support": "PC",
+    "Contact": "support@dukope.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "What Remains of Edith Finch",
+    "Category": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@giantsparrow.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Firewatch",
+    "Category": [
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@camposanto.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Journey",
+    "Category": [
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@thatgamecompany.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Gris",
+    "Category": [
+      "Platformer",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@nomadastudio.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Inside",
+    "Category": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@playdead.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Limbo",
+    "Category": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@playdead.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Overcooked! 2",
+    "Category": [
+      "Co-op",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@team17.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Moving Out",
+    "Category": [
+      "Co-op",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@smtstudio.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Unravel Two",
+    "Category": [
+      "Platformer",
+      "Co-op"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Don't Starve Together",
+    "Category": [
+      "Survival",
+      "Co-op"
+    ],
+    "Support": "PC",
+    "Contact": "support@klei.com",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Terraria (Mobile)",
+    "Category": [
+      "Adventure",
+      "Survival"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@re-logic.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Minecraft (Mobile)",
+    "Category": [
+      "Survival",
+      "Adventure"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@mojang.com",
+    "Downloads": 300000000
+  },
+  {
+    "Game": "Among Us (Mobile)",
+    "Category": [
+      "Strategy",
+      "Survival"
+    ],
+    "Support": "Mobile",
+    "Contact": "support@innersloth.com",
+    "Downloads": 400000000
+  },
+  {
+    "Game": "Human: Fall Flat",
+    "Category": [
+      "Puzzle",
+      "Platformer",
+      "Co-op"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@nomodes.com",
+    "Downloads": 30000000
+  },
+  {
+    "Game": "Gang Beasts",
+    "Category": [
+      "Fighting",
+      "Co-op"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@boneloaf.co",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Keep Talking and Nobody Explodes",
+    "Category": [
+      "Puzzle",
+      "Co-op",
+      "VR"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@steelcrategames.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Death Stranding",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@kojimaproductions.jp",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Control Ultimate Edition",
+    "Category": [
+      "Action",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@remedygames.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Metro Exodus Enhanced Edition",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@4a-games.com.mt",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "DOOM (2016)",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bethesda.net",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Wolfenstein II: The New Colossus",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bethesda.net",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Titanfall 2",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "Apex Legends",
+    "Category": [
+      "Shooter",
+      "Battle Royale"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@ea.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "PlayerUnknown's Battlegrounds (PUBG)",
+    "Category": [
+      "Shooter",
+      "Battle Royale"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@pubg.com",
+    "Downloads": 75000000
+  },
+  {
+    "Game": "Rainbow Six Siege",
+    "Category": [
+      "Shooter",
+      "Tactical"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@ubisoft.com",
+    "Downloads": 80000000
+  },
+  {
+    "Game": "Counter-Strike: Global Offensive (CS:GO)",
+    "Category": [
+      "Shooter",
+      "Tactical"
+    ],
+    "Support": "PC",
+    "Contact": "support@valvesoftware.com",
+    "Downloads": 40000000
+  },
+  {
+    "Game": "Escape from Tarkov",
+    "Category": [
+      "Shooter",
+      "Survival"
+    ],
+    "Support": "PC",
+    "Contact": "support@battlestategames.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Insurgency: Sandstorm",
+    "Category": [
+      "Shooter",
+      "Tactical"
+    ],
+    "Support": "PC",
+    "Contact": "support@newworldinteractive.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "DOOM 64 (Remaster)",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bethesda.net",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Quake (Remastered)",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bethesda.net",
+    "Downloads": 750000
+  },
+  {
+    "Game": "Serious Sam 4",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@croteam.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Ion Fury",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@3drealms.com",
+    "Downloads": 300000
+  },
+  {
+    "Game": "DUSK",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@newblood.games",
+    "Downloads": 400000
+  },
+  {
+    "Game": "Amid Evil",
+    "Category": [
+      "Shooter",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@newblood.games",
+    "Downloads": 250000
+  },
+  {
+    "Game": "The Outer Wilds: Echoes of the Eye",
+    "Category": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@mobiusdigitalgames.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Disco Elysium: The Final Cut",
+    "Category": [
+      "RPG",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@zaum.ee",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Life is Strange: True Colors",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@square-enix.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Detroit: Become Human",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@quanticdream.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Beyond: Two Souls",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@quanticdream.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Heavy Rain",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@quanticdream.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "The Walking Dead: The Telltale Definitive Series",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@skydance.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "The Wolf Among Us",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@telltale.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Tales from the Borderlands",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@telltale.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Oxenfree",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@nightschoolstudio.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Night in the Woods",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@infinitefall.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Kentucky Route Zero",
+    "Category": [
+      "Adventure",
+      "Narrative"
+    ],
+    "Support": "PC",
+    "Contact": "support@cardboardcomputer.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Thimbleweed Park",
+    "Category": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@terribletoybox.com",
+    "Downloads": 400000
+  },
+  {
+    "Game": "Pikuniku",
+    "Category": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@devolverdigital.com",
+    "Downloads": 300000
+  },
+  {
+    "Game": "The Gardens Between",
+    "Category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@thevoxelagents.com",
+    "Downloads": 200000
+  },
+  {
+    "Game": "Darkest Dungeon",
+    "Category": [
+      "RPG",
+      "Strategy",
+      "Roguelike"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@redhookgames.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Slay the Spire (PC)",
+    "Category": [
+      "Strategy",
+      "Card Game",
+      "Roguelike"
+    ],
+    "Support": "PC",
+    "Contact": "support@megacrit.com",
+    "Downloads": 4000000
+  },
+  {
+    "Game": "Into the Breach",
+    "Category": [
+      "Strategy",
+      "Roguelike"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@subsetgames.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "FTL: Faster Than Light",
+    "Category": [
+      "Strategy",
+      "Roguelike"
+    ],
+    "Support": [
+      "PC",
+      "Mobile"
+    ],
+    "Contact": "support@subsetgames.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Crypt of the NecroDancer",
+    "Category": [
+      "Rhythm",
+      "Roguelike"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@braceyourselfgames.com",
+    "Downloads": 1500000
+  },
+  {
+    "Game": "Dicey Dungeons",
+    "Category": [
+      "Strategy",
+      "Roguelike"
+    ],
+    "Support": "PC",
+    "Contact": "support@terrycavanagh.com",
+    "Downloads": 400000
+  },
+  {
+    "Game": "This War of Mine",
+    "Category": [
+      "Survival",
+      "Strategy"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@11bitstudios.com",
+    "Downloads": 7000000
+  },
+  {
+    "Game": "Frostpunk: Console Edition",
+    "Category": [
+      "Simulation",
+      "Strategy"
+    ],
+    "Support": "Console",
+    "Contact": "support@11bitstudios.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Sunless Sea",
+    "Category": [
+      "RPG",
+      "Adventure",
+      "Roguelike"
+    ],
+    "Support": "PC",
+    "Contact": "support@failbettergames.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Sunless Skies",
+    "Category": [
+      "RPG",
+      "Adventure",
+      "Roguelike"
+    ],
+    "Support": "PC",
+    "Contact": "support@failbettergames.com",
+    "Downloads": 300000
+  },
+  {
+    "Game": "Shadow Tactics: Blades of the Shogun",
+    "Category": [
+      "Strategy",
+      "Tactical"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@mimimigames.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Desperados III",
+    "Category": [
+      "Strategy",
+      "Tactical"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@mimimigames.com",
+    "Downloads": 750000
+  },
+  {
+    "Game": "Mutant Year Zero: Road to Eden",
+    "Category": [
+      "Strategy",
+      "Tactical",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@thebeardedladiesconsulting.com",
+    "Downloads": 800000
+  },
+  {
+    "Game": "Gears Tactics",
+    "Category": [
+      "Strategy",
+      "Tactical"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@splashdamage.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Phoenix Point",
+    "Category": [
+      "Strategy",
+      "Tactical"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@snapshotgames.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Battletech",
+    "Category": [
+      "Strategy",
+      "Tactical"
+    ],
+    "Support": "PC",
+    "Contact": "support@hbs.net",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Warhammer 40,000: Mechanicus",
+    "Category": [
+      "Strategy",
+      "Tactical"
+    ],
+    "Support": "PC",
+    "Contact": "support@kalypsomedia.com",
+    "Downloads": 400000
+  },
+  {
+    "Game": "Company of Heroes 2",
+    "Category": [
+      "Strategy",
+      "RTS"
+    ],
+    "Support": "PC",
+    "Contact": "support@relic.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "StarCraft II",
+    "Category": [
+      "Strategy",
+      "RTS"
+    ],
+    "Support": "PC",
+    "Contact": "support@blizzard.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Age of Empires II: Definitive Edition",
+    "Category": [
+      "Strategy",
+      "RTS"
+    ],
+    "Support": "PC",
+    "Contact": "support@ageofempires.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "They Are Billions",
+    "Category": [
+      "Strategy",
+      "RTS",
+      "Survival"
+    ],
+    "Support": "PC",
+    "Contact": "support@numantiangames.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Northgard",
+    "Category": [
+      "Strategy",
+      "RTS"
+    ],
+    "Support": "PC",
+    "Contact": "support@shirogames.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Iron Harvest",
+    "Category": [
+      "Strategy",
+      "RTS"
+    ],
+    "Support": "PC",
+    "Contact": "support@kingart-games.com",
+    "Downloads": 500000
+  },
+  {
+    "Game": "Dota 2",
+    "Category": [
+      "Strategy",
+      "MOBA"
+    ],
+    "Support": "PC",
+    "Contact": "support@valvesoftware.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "League of Legends",
+    "Category": [
+      "Strategy",
+      "MOBA"
+    ],
+    "Support": "PC",
+    "Contact": "support@riotgames.com",
+    "Downloads": 150000000
+  },
+  {
+    "Game": "Heroes of the Storm",
+    "Category": [
+      "Strategy",
+      "MOBA"
+    ],
+    "Support": "PC",
+    "Contact": "support@blizzard.com",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "World of Warcraft",
+    "Category": [
+      "MMORPG"
+    ],
+    "Support": "PC",
+    "Contact": "support@blizzard.com",
+    "Downloads": 100000000
+  },
+  {
+    "Game": "Final Fantasy XIV",
+    "Category": [
+      "MMORPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@square-enix.com",
+    "Downloads": 27000000
+  },
+  {
+    "Game": "The Elder Scrolls Online",
+    "Category": [
+      "MMORPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "help@bethsoft.com",
+    "Downloads": 20000000
+  },
+  {
+    "Game": "Guild Wars 2",
+    "Category": [
+      "MMORPG"
+    ],
+    "Support": "PC",
+    "Contact": "support@arena.net",
+    "Downloads": 15000000
+  },
+  {
+    "Game": "Black Desert Online",
+    "Category": [
+      "MMORPG"
+    ],
+    "Support": "PC",
+    "Contact": "support@pearlabyss.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Lost Ark (Western Release)",
+    "Category": [
+      "MMORPG",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@playlostark.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "New World (if not already listed)",
+    "Category": [
+      "MMORPG",
+      "Action"
+    ],
+    "Support": "PC",
+    "Contact": "support@amazonagames.com",
+    "Downloads": 10000000
+  },
+  {
+    "Game": "Mortal Shell",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@cold-symmetry.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Nioh 2",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@koeitecmo.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Code Vein",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bandainamcoent.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Remnant: From the Ashes",
+    "Category": [
+      "Action",
+      "Shooter",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@gunfiregames.com",
+    "Downloads": 3000000
+  },
+  {
+    "Game": "Children of Morta",
+    "Category": [
+      "Action",
+      "RPG",
+      "Roguelike"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@11bitstudios.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "CrossCode",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@radicalfishgames.com",
+    "Downloads": 700000
+  },
+  {
+    "Game": "Darksiders Genesis",
+    "Category": [
+      "Action",
+      "RPG"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@airshipsyndicate.com",
+    "Downloads": 800000
+  },
+  {
+    "Game": "Streets of Rage 4",
+    "Category": [
+      "Fighting",
+      "Action"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@dotemu.com",
+    "Downloads": 2500000
+  },
+  {
+    "Game": "Mortal Kombat 11",
+    "Category": [
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@wbgames.com",
+    "Downloads": 12000000
+  },
+  {
+    "Game": "Dragon Ball FighterZ",
+    "Category": [
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bandainamcoent.com",
+    "Downloads": 8000000
+  },
+  {
+    "Game": "Guilty Gear -Strive-",
+    "Category": [
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@arcsystemworks.com",
+    "Downloads": 1000000
+  },
+  {
+    "Game": "Injustice 2",
+    "Category": [
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@wbgames.com",
+    "Downloads": 5000000
+  },
+  {
+    "Game": "Tekken 7",
+    "Category": [
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bandainamcoent.com",
+    "Downloads": 9000000
+  },
+  {
+    "Game": "Soulcalibur VI",
+    "Category": [
+      "Fighting"
+    ],
+    "Support": [
+      "PC",
+      "Console"
+    ],
+    "Contact": "support@bandainamcoent.com",
+    "Downloads": 2000000
+  },
+  {
+    "Game": "Brawlhalla",
+    "Category": [
+      "Fighting",
+      "Platformer"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@brawlhalla.com",
+    "Downloads": 80000000
+  },
+  {
+    "Game": "Slime Rancher",
+    "Category": [
+      "Simulation",
+      "Adventure"
+    ],
+    "Support": "PC",
+    "Contact": "support@monomipark.com",
+    "Downloads": 6000000
+  },
+  {
+    "Game": "Spiritfarer",
+    "Category": [
+      "Adventure",
+      "Simulation"
+    ],
+    "Support": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "Contact": "support@thunderlotusgames.com",
+    "Downloads": 1000000
+  }
+  ]

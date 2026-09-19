@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 6%;
+    --foreground: 0 0% 100%;
+    --card: 0 0% 6%;
+    --card-foreground: 0 0% 100%;
+    --popover: 0 0% 6%;
+    --popover-foreground: 0 0% 100%;
+    --primary: 350 100% 46%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 0% 13%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 0 0% 13%;
+    --muted-foreground: 0 0% 63.9%;
+    --accent: 0 0% 13%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 13%;
+    --input: 0 0% 13%;
+    --ring: 350 100% 46%;
+    --radius: 1rem;
+
+    @apply bg-[#0f0f0f];
+  }
+
+  body {
+    @apply font-sans antialiased bg-[#0f0f0f] text-white min-h-screen selection:bg-[#eb0028] selection:text-white;
+  }
+
+  #root {
+    @apply min-h-screen bg-[#0f0f0f];
+  }
+}
+
+/* Navigation bar styles */
+.nav-menu {
+  @apply fixed left-0 top-0 bottom-0 w-16 flex flex-col justify-center items-center gap-8 z-50 bg-[#0f0f0f]/80 backdrop-blur-md border-r border-[#2D221C];
+}
+
+.nav-item {
+  @apply flex flex-col items-center gap-1 text-xs text-white/60 transition-colors duration-200 hover:text-[#eb0028];
+}
+
+.nav-item.active {
+  @apply text-[#eb0028];
+}
