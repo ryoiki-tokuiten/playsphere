@@ -1,10 +1,6 @@
 # PlaySphere
 
-A social gaming hub where players discover teammates, customize shareable gamer cards, chat in real time, explore games, submit community ideas, and watch game streams.
-
-## What You Can Do
-
-Create your personal gamer card showcasing your in-game handles, region, languages, and titles you play. Share your profile instantly via direct link or QR code. Coordinate matches using real-time direct messaging or create group chats with other gamers. Discover new games filtered by category, submit and upvote feature suggestions on the community ideas board, and stream gameplay highlights.
+This is an experimental project built around a simple idea: a public lobby where gamers can openly broadcast what they are playing so anyone interested can reach out, chat, and play together. It is an open room to discover people by games. Users can just search a game and find people who play that game, or specifically find people who play that game in a given region and speak some given language.
 
 ## Setup
 
